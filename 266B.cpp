@@ -20,9 +20,4 @@ int main(){
 
     cout << s;
 
-
-    
-
-    
-      
 }
